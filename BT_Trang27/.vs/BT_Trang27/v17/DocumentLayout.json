@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\BTap_Nhom6\\BTChuong4\\BT_Trang27\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A72469DF-5523-4DB8-A46B-5B6AD8A639FF}|BT_Trang27\\BT_Trang27.vcxproj|C:\\BTap_Nhom6\\BTChuong4\\BT_Trang27\\BT_Trang27\\BT_Trang27.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A72469DF-5523-4DB8-A46B-5B6AD8A639FF}|BT_Trang27\\BT_Trang27.vcxproj|solutionrelative:BT_Trang27\\BT_Trang27.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BT_Trang27.cpp",
+              "DocumentMoniker": "C:\\BTap_Nhom6\\BTChuong4\\BT_Trang27\\BT_Trang27\\BT_Trang27.cpp",
+              "RelativeDocumentMoniker": "BT_Trang27\\BT_Trang27.cpp",
+              "ToolTip": "C:\\BTap_Nhom6\\BTChuong4\\BT_Trang27\\BT_Trang27\\BT_Trang27.cpp",
+              "RelativeToolTip": "BT_Trang27\\BT_Trang27.cpp",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAuwHwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-07T07:06:17.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
